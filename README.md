@@ -2,7 +2,7 @@
 
 The original data are from:
 
-* Wellcome trust (vaccine hesitancy, trust in science, importance of religion - directly downaload an Excel file): https://wellcome.ac.uk/sites/default/files/wgm2018-dataset-crosstabs-all-countries.xlsx
+* Wellcome trust (vaccine hesitancy, trust in science, importance of religion - the link directly downaloads an Excel file): https://wellcome.ac.uk/sites/default/files/wgm2018-dataset-crosstabs-all-countries.xlsx
 
 * International Monetary Found (GDP pro capita): https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/
 
@@ -16,7 +16,7 @@ Notice that I used the following data:
 
 * **Trust in science**: Wellcome Global Monitor Trust in Scientists Index, Country Average Index Score (Wellcome Global Monitor 2018)
 
-* **Importance of religion**: Percentage of people who have a religion & say it is important in their daily lives (Wellcome Global Monitor 2018)
+* **Importance of religion**: 'Percentage of people who have a religion & say it is important in their daily lives' (Wellcome Global Monitor 2018)
 
 * **GDP pro capita**: estimates in International Dollars from the International Monetary Found
 
